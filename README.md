@@ -1,2 +1,2 @@
 # SQL-Projects
-Here is a compilation of my SQL projects.
+Welcome to my SQL projects! Enjoy looking through my series of projects :blush:
