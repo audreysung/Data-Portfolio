@@ -3,7 +3,7 @@
 ## ✨ Table of Contents
 📈 [**SQL:** Yelp Dataset Analysis](#yelp-dataset-analysis-in-sql)
 
-📈 [**Tableau:** Superstore Sales Dataset Analysis](#superstore-sales-dataset-analysis-in-tableau)
+🏬 [**Tableau:** Superstore Sales Dataset Analysis](#superstore-sales-dataset-analysis-in-tableau)
 
 🏃‍♀️ [**Microsoft Excel + R:** Analyzing Bellabeat Fitness Data](#bellabeat-fitness-data-analysis-in-microsoft-excel-and-r)
 
