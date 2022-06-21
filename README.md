@@ -5,7 +5,7 @@
 
 🏬 [**Tableau:** Superstore Sales Dataset Analysis](#superstore-sales-dataset-analysis-in-tableau)
 
-🏃‍♀️ [**Microsoft Excel + R:** Analyzing Bellabeat Fitness Data](#bellabeat-fitness-data-analysis-in-microsoft-excel-and-r)
+🏃‍♀️ [**Microsoft Excel + R:** Bellabeat Fitness Data Analysis](#bellabeat-fitness-data-analysis-in-microsoft-excel-and-r)
 
 ## 📊 Data Projects
 ### Yelp Dataset Analysis in SQL  
