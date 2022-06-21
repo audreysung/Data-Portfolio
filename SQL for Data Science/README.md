@@ -9,8 +9,8 @@ In the [SQL for Data Science course](https://www.coursera.org/learn/sql-for-data
 
 
 ### 📓 Knowledge 
-- Identified subset of data needed from a column or set of columns and wrote SQL queries to limit those results
-- Used SQL commands to filter, sort, and summarize data
-- Combined many analysis tables using the JOIN operator 
+- Identify subset of data needed from a column or set of columns and wrote SQL queries to limit those results
+- Use SQL commands to filter, sort, and summarize data
+- Combine many analysis tables using the JOIN operator 
 
 ### [Check out my SQL project! 🥰](https://github.com/audreysung/Data-Portfolio/blob/main/SQL%20for%20Data%20Science/Yelp%20Dataset%20Project.sql)
