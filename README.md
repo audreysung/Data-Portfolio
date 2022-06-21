@@ -1,4 +1,4 @@
-## Welcome to my data portfolio! Enjoy looking through my series of projects 😄
+## Welcome to my data portfolio! Enjoy looking through my projects 😄
 
 ## ✨ Table of Contents
 📈 [**SQL:** Yelp Dataset Analysis](#yelp-dataset-analysis-in-sql)
