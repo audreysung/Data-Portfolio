@@ -9,7 +9,10 @@ INSERT INTO store VALUES (4, "hats", "yellow", 7, 10);
 INSERT INTO store VALUES (5, "blouses", "pink", 8, 15);
 
 --Display the database ordered by price
-SELECT * FROM store ORDER BY price;
+SELECT * 
+FROM store 
+ORDER BY price;
 
 --Display the total quantity of clothing items
-SELECT SUM(quantity) FROM store;
+SELECT SUM(quantity) 
+FROM store;
